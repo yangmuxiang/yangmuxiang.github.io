@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
-name: Muxiang Yang's Blog
-markdown: kramdown
+github: [metadata]
+kramdown:
+  input: GFM
+  hard_wrap: false
+gems:
+  - jekyll-coffeescript
+  - jekyll-paginate
