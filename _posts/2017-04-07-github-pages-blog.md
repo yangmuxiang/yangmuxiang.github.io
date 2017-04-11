@@ -11,3 +11,5 @@ Hexo则需要生成站点文件，并上传到博客空间，优点是自带模�
 1. [定制Github Pages](https://help.github.com/categories/customizing-github-pages/)
 1. [Github官方帮助文档：用Jekyll在本机搭建GitHub Pages](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 3. [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
+4. [如何在 GitHub 上写博客？](https://www.zhihu.com/question/20962496)
+5. [Markdown中插入数学公式的方法](http://blog.csdn.net/xiahouzuoxin/article/details/26478179)
