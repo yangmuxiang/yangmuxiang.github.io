@@ -11,7 +11,8 @@ date: 2017-04-17
 2. ThreadLocal的应用场景、实现原理以及与Synchronize的区别
 
 # 数据库
-5. innodb引擎的索引实现原理和锁机制
+1. MyISAM与innodb引擎有什么区别？
+5. innodb引擎的索引实现原理和锁机制(mvcc)
 2. innodb如何实现事务
 3. mysql索引数据结构，索引创建的考量因素，索引如何优化。什么是多列索引，覆盖索引。
 
